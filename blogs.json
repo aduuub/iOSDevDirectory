@@ -119,7 +119,7 @@
             "title": "Adam Wareing's Blog",
             "author": "Adam Wareing",
             "site_url": "https://blog.aniseedapps.com/",
-            "feed_url": "https://blog.aniseedapps.com/rss",
+            "feed_url": "https://blog.aniseedapps.com/rss/",
             "twitter_url": "https://x.com/layoutGuides"
           },
           {
@@ -1842,8 +1842,8 @@
           {
             "title": "Gurjit Singh's Blog",
             "author": "Gurjit Singh",
-            "site_url": "https://gurjit.co/",
-            "feed_url": "https://gurjit.co/feed.xml",
+            "site_url": "https://gurjit.co/cgi-sys/suspendedpage.cgi",
+            "feed_url": "https://gurjit.co/cgi-sys/suspendedpage.cgi",
             "twitter_url": "https://twitter.com/gurjitpt"
           },
           {
@@ -3520,8 +3520,8 @@
           {
             "title": "Peter Steinberger’s Blog",
             "author": "Peter Steinberger",
-            "site_url": "https://steipete.com",
-            "feed_url": "https://steipete.com/feed.xml",
+            "site_url": "https://steipete.me/",
+            "feed_url": "https://steipete.me/feed.xml",
             "twitter_url": "https://twitter.com/steipete"
           },
           {
@@ -5305,8 +5305,8 @@
           {
             "title": "Big Nerd Ranch",
             "author": "Big Nerd Ranch Team",
-            "site_url": "https://bignerdranch.com/blog/category/ios",
-            "feed_url": "https://bignerdranch.com/blog/category/ios/feed/",
+            "site_url": "https://www.amdocs.com/products-services/experience-digital-engineering-studio?publication=welcome&source=bnr",
+            "feed_url": "https://www.amdocs.com/products-services/experience-digital-engineering-studio?publication=welcome&source=bnr",
             "twitter_url": "https://twitter.com/bignerdranch"
           },
           {
